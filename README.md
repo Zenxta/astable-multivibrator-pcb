@@ -6,14 +6,14 @@ This is a PCB design for a transistor-based astable multivibrator, a simple squa
 
 | Component | Value | Description |
 | :--- | :--- | :--- |
-| **Transistors** | 2N3904 (Q1, Q2) | Two NPN bipolar junction transistors. |
-| **Resistors** | 300 Ω (R1, R4) | Current-limiting resistors for the LEDs. |
-| | 47 kΩ (R2, R3) | Resistors that control the transistor's base voltage and the timing of the oscillation. |
-| **Capacitors** | 10 µF (C1, C2) | Timing capacitors that alternately charge and discharge to create the oscillation. |
-| **Diodes** | LED (D1, D2) | Light Emitting Diodes that provide a visual indication of the output. |
+| **Transistors** | 2N3904 (Q1, Q2) | Two NPN BJTs. |
+| **Resistors** | 300 Ω (R1, R4) | Resistors for the LEDs. |
+| | 47 kΩ (R2, R3) | Resistors to control transistor's base voltage and timing of the oscillation. |
+| **Capacitors** | 10 µF (C1, C2) | Timing capacitors that charge and discharge alternatively to create the oscillation. |
+| **Diodes** | LED (D1, D2) | LEDs that provide a visual indication of the output. |
 | **Switch** | SPDT (SW1) | Single Pole Double Throw switch to control the circuit. |
 | **Power** | Battery (BT1) | A power source for the circuit. |
-| **Mounting** | H1, H2, H3, H4 | Four mounting holes for securing the PCB. |
+| **Mounting** | H1, H2, H3, H4 | Four mounting holes for holding the PCB. |
 
 ## Design Files
 
@@ -25,5 +25,10 @@ All design files for this project are included in the repository and can be open
 ## Images
 
 ### Schematic Diagram
-### PCB Layout (Top View)
-### PCB Layout (Bottom View)
+<img width="1239" height="873" alt="Screenshot 2025-09-25 004303" src="https://github.com/user-attachments/assets/c00a03e1-d575-4604-bcab-3bc7f0ae4c0e" />
+
+### PCB Layout
+
+<img width="1580" height="930" alt="Screenshot 2025-09-25 010611" src="https://github.com/user-attachments/assets/f4306b3e-d9d2-4de8-8cb1-074ee8231372" />
+
+
