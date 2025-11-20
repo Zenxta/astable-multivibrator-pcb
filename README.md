@@ -19,8 +19,8 @@ This is a PCB design for a transistor-based astable multivibrator, a simple squa
 
 All design files for this project are included in the repository and can be opened with KiCad.
 
-* **Schematic:** `astable-multivibrator.kicad_sch`
-* **PCB Layout:** `astable-multivibrator.kicad_pcb`
+* **Schematic:** [`astable-multivibrator.kicad_sch`](astable-multivibrator.kicad_sch)
+* **PCB Layout:** [`astable-multivibrator.kicad_pcb`](astable-multivibrator.kicad_pcb)
 
 ## Images
 
