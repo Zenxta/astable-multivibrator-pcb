@@ -15,12 +15,13 @@ This is a PCB design for a transistor-based astable multivibrator, a simple squa
 | **Power** | Battery (BT1) | A power source for the circuit. |
 | **Mounting** | H1, H2, H3, H4 | Four mounting holes for holding the PCB. |
 
-## Design Files
+## Design & Gerber Files
 
-All design files for this project are included in the repository (files added at top) and can be opened with KiCad. 
+All design and gerber files for this project are included in the repository (files added at top) and can be opened with KiCad. 
 
 * **Schematic:** `schematic.kicad_sch`
 * **PCB Layout:** `pcb board.kicad_pcb`
+* **Gerber Files:** `gerber.zip`
 
 ## Images
 
