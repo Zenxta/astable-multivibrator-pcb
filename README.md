@@ -32,4 +32,14 @@ All design and gerber files for this project are included in the repository (fil
 
 <img width="1580" height="930" alt="Screenshot 2025-09-25 010611" src="https://github.com/user-attachments/assets/f4306b3e-d9d2-4de8-8cb1-074ee8231372" />
 
+### 3-D View of PCB (front and back)
+
+<img width="1580" height="930" alt="Screenshot 2025-09-25 010611" src="https://github.com/Zenxta/astable-multivibrator-pcb/blob/main/3-D%20front.png?raw=true" />
+
+<img width="1580" height="930" alt="Screenshot 2025-09-25 010611" src="https://github.com/Zenxta/astable-multivibrator-pcb/blob/main/3-D%20back.png?raw=true" />
+
+
+
+
+
 
